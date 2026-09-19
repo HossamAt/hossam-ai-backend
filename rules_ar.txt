@@ -1,0 +1,196 @@
+# OneState Rules — Hossam AI
+# This file is the authoritative source for original rules plus clearly marked Hossam AI application cases.
+# Do not invent codes, punishments, durations, or stacking rules.
+
+## ORIGINAL RULES
+3.1 NAME1 — incompatible RP title -> change title.
+3.2 NAME2 — offensive NRP title -> force title change.
+4.7 AC1 — sell/attempt sell account -> permanent ban associated accounts.
+4.8 AC2 — transfer/attempt transfer account -> permanent ban.
+4.9 AC3 — >3 accounts on one device -> permanent ban associated accounts beyond allowed.
+4.10 AC4 — hack/unauthorized access another account -> permanent ban.
+4.11 AC5 — sell/buy/trade game assets for real money -> permanent ban.
+
+5.1 RP1 — DM: harm/kill player without RP reason -> 20 min jail.
+5.2 RP2 — DMAuto: damage/destroy player vehicle without RP reason -> 20 min jail.
+5.3 RP3 — NP: exceed physical abilities of RP character -> 10 min jail.
+5.4 RP4 — NRP: violate character logic/create unrealistic situations -> 15 min jail.
+5.5 RP5 — MG: use real-world info inside RP -> mute 30 min to jail 60 min.
+5.6 RP6 — refuse RP for personal gain -> 30 min jail.
+5.7 RP7 — misuse /do /me /try -> 20 min jail.
+5.8 RP8 — AFK >5 min -> disconnect.
+5.9 RP9 — DB: harm/kill using vehicle -> 60 min jail.
+5.9.1 RP9.1 — mass shooting from vehicle -> 12-hour ban.
+5.10 RP10 — RK: kill/chase player after death or return to death location before situation ends -> 90 min jail.
+5.11 RP11 — crimes/attacks in protected/work areas -> 30–60 min jail.
+5.12 RP12 — non-RP/non-realistic kidnapping -> 30 min jail.
+5.13 RP13 — non-RP faction behavior -> faction removal and/or jail up to ban depending on case.
+5.14 RP14 — sexual harassment/explicit sexual content/racial insults -> mute to ban depending case.
+5.15 RP15 — intentionally disrupt group operations/incite members to disrupt -> 30 min jail.
+5.16 RP16 — crimes against emergency medical personnel prohibited -> 90 min jail to 12-hour ban.
+
+6.1 CHAT1 — insult players without RP reason -> 24-hour ban.
+6.2 CHAT2 — insult players’ relatives -> 240 min mute to 3-day ban.
+6.3 CHAT3 — religious/national insults or negativity toward nationality/race/religion -> 240 min mute to 3-day ban.
+6.4 CHAT4 — insult administration -> 240 min mute to 7-day ban.
+6.5 CHAT5 — flood/spam including macros -> 10 min mute.
+6.6 CHAT6 — flooding reports/feedback -> 10–30 min mute.
+6.7 CHAT7 — unauthorized external resource advertising -> 10-day ban.
+6.8 CHAT8 — music/music noise in voice chat -> 60 min mute.
+6.9 CHAT9 — impersonate admin/company for gain/mislead -> permanent ban.
+6.10 CHAT10 — scam players -> permanent ban.
+6.11 CHAT11 — deceive admin representative -> permanent ban.
+6.12 CHAT12 — defame/attack project publicly with intent to harm -> up to 30-day ban.
+6.13 CHAT13 — out-of-context threats targeting real-life physical safety -> 10-day ban.
+6.14 CHAT14 — encourage players to break rules to get them punished -> 12-hour ban.
+6.15 CHAT15 — toxic/hostile behavior toward players/admins -> 1–3 day ban.
+6.16 CHAT16 — use official server language, with small-group exception if no RP impact.
+6.17 CHAT17 — disclose personal/confidential info/doxxing -> permanent ban.
+6.18 TCHAT1 — non-trade messages in trade chat -> mute based on severity.
+6.19 TCHAT2 — misleading in trade chat -> 10 min mute.
+6.20 TCHAT3 — repeated/useless trade chat messages -> 5 min mute.
+
+7.1 ABUSE1 — exploit bugs/glitches/mods for advantage/disruption -> 1–30 day ban.
+7.2 ABUSE2 — exploit AFK with bugs/external programs like clickers/macros -> 3-day ban.
+7.3 ABUSE3 — repeated/systematic rule violations -> 3–30 day ban.
+7.3.1 ABUSE3.1 — excessive repetition may lead to permanent ban.
+7.4 ABUSE4 — large-scale disruption of RP events/operations -> 12-hour ban.
+7.5 ABUSE5 — block vital points/work access/entrances -> 10–60 min jail.
+7.6 ALERT1 — evade/avoid ban/punishment -> 14 days to permanent ban.
+7.7 ALERT2 — damage OneState servers/currency economy/server stability -> permanent ban.
+7.8 ALERT3 — external cheat/programs to modify project files/data -> permanent ban.
+7.9 ALERT4 — harm server economy via unauthorized currency/item transfer.
+7.10 ALERT5 — external defamation of project/players/admin -> permanent ban.
+7.11 ALERT6 — promote/advertise external games/products/projects/services without approval -> 1 day to permanent ban.
+
+8.1 MEDIA1 — stream sniping/harass media person/disrupt filming causing delay -> 1–24 hour ban.
+
+9.1 CLAN1 — gang name/description/ranks cannot contain offensive/banned words -> change.
+9.2 CLAN2 — block gang house entrance marker -> 30 min jail.
+9.3 CLAN3 — break chat rules in gang chat -> mute per CHAT category.
+9.4 CLAN4 — alliance with other gangs in events forbidden -> 30 min jail.
+9.5 CLAN5 — gang taser more than twice in same RP situation without RP reason -> 30 min jail.
+9.6 CLAN5.1 — gang taser to remove faction player from vehicle without RP reason -> 90 min jail.
+9.7 CLAN6 — kill players at gang house entrance/exit marker or shoot inside/outside -> 40 min jail.
+9.8 CLAN7 — block gang house entrance/exit or roads with vehicles -> 60 min jail.
+9.9 CLAN8 — invite to gang in green zones -> 60 min chat mute.
+9.10 CLAN9 — use gang taser on player in work vehicle to eject -> 90 min jail.
+9.11 CLAN10 — exploit glitches to get gang currency -> confiscate illegal assets or delete gang without refund.
+
+10 MD — Medical Alliance:
+MD1 refusal of medical help -> warning/rank deduction.
+MD2 restrict injured -> warning/rank deduction.
+MD3 must provide medical help -> warning/rank deduction.
+MD4 leak work info -> warning/rank deduction.
+MD4.1 inappropriate behavior -> warning/rank deduction.
+MD4.2 disobey instructions -> warning/rank deduction.
+MD4.3 patient treatment -> warning/rank deduction.
+MD5 use medical equipment personally -> warning/rank deduction.
+MD6 use faction resources personally -> warning/rank deduction.
+MD7 medical equipment personally -> warning/rank deduction.
+MD7.1 use without permission -> warning/rank deduction.
+MD8 ambulance equipment/resources unlawfully/personal use -> warning/rank deduction.
+
+11 Police:
+11.1 false accusations/handcuff/jail/assault/taser/gun civilians without justification -> police dismissal + state law.
+11.2 detain/jail without reason -> dismissal + state law.
+11.3 assault civilians with weapons/hands/taser without proper RP reason -> dismissal.
+11.4 disrespect colleagues/civilians -> one disciplinary warning.
+11.5 warn before firearms/physical force/special equipment -> one disciplinary warning.
+11.6 hierarchy/orders -> one disciplinary warning.
+11.7 server laws -> disciplinary warning + state law.
+11.8 personal use police vehicles -> one disciplinary warning.
+11.9 use personal vehicles for police tasks -> one disciplinary warning.
+11.10 insult players/faction admins outside RP -> one disciplinary warning.
+11.11 when arresting, explain reason verbally/written -> one warning.
+11.12 no response/activity Discord or support team/leader tasks -> one warning.
+11.13 attach wanted/violation list screenshot when arresting -> one warning if absent.
+11.14 provide info about arrested people -> one warning if absent.
+11.15 proper RP, act as officer, respect, state reason, right to silence -> one warning.
+11.16 every two warnings = one disciplinary warning; 3 disciplinary warnings = removal from police position.
+
+12 Army:
+12.1 disrespect colleagues/civilians -> disciplinary warning or dismissal.
+12.2 address higher ranks “sir/madam” -> one warning.
+12.3 corruption/bribes -> dismissal.
+12.4 no firearms/force/equipment without warning and legitimate reason (life/health threat/base entry) -> warning or dismissal.
+12.5 Carrier only with generals/deputies/commander permission -> one warning.
+12.6 hierarchy/orders -> warning or dismissal.
+12.7 personal use army vehicles -> warning or dismissal.
+12.8 server laws -> warning or dismissal.
+12.9 leave base in military uniform/with weapon without permission -> one warning.
+12.10 two warnings = disciplinary warning; 3 disciplinary warnings = removal from soldier position.
+
+## HOSSAM AI APPLICATION CASES
+These are user-supplied application cases. They must be preserved and prioritized over a generic rule when the exact case matches. They are NOT claimed as original source text.
+
+Green Zone:
+- RP11 — weapon inside green zone -> 30 min jail.
+- RP1/4/6/11 — shooting inside/in front of green zone -> 95 min jail.
+- RP9/11 — running over players inside green zone -> 90 min jail.
+- RP2/11 — vehicle collision inside green zone -> 50 min jail.
+- RP9.1 — running over 3+ players inside green zone -> 12-hour ban.
+
+Neutral/green:
+- RP1/4/6 — attacking players without reason (weapon) -> 65 min jail.
+- RP9 — running over players -> 60 min jail.
+- RP9.1 — running over 3+ players -> 12-hour ban.
+- RP1/4/6 — shooting faction member without reason -> 65 min jail.
+- RP16 — shooting medic without revival -> 90 min jail.
+- RP16 — shooting medic during revival -> 12-hour ban.
+- CLAN2.2 — killing/shooting at gang headquarters -> 40 min jail.
+- CLAN5 — taser >2 times same situation -> 30 min jail.
+- CLAN5.1 — taser faction member or faction vehicle -> 90 min jail.
+- RP4/6 — entering military base outside event time -> 50 min jail.
+
+Voice:
+- CHAT1 insult players -> 1-day ban.
+- CHAT2 insult relatives -> 240 min mute to 3-day ban.
+- CHAT3 religious/national insults -> 240 min mute to 3-day ban.
+- CHAT4 insult admin -> 240 min mute to 7-day ban.
+- CHAT5 message flood -> 10 min mute.
+- CHAT6 report flood -> 10–30 min mute.
+- CHAT8 noise voice chat -> 60 min mute.
+- CHAT9 pretend admin representative -> permanent ban all accounts.
+- CHAT11 deceive administration -> permanent ban all accounts.
+- CHAT14 incite rule breaking -> 12-hour ban.
+- CHAT15 bad behavior/“السبي” toward players -> 240 min mute to 3-day ban.
+- CHAT16 unofficial Arabic language with >5 players -> 10/15/30/60 min mute to 12-hour ban.
+- RP14 sexual harassment/sexual form -> 60 min mute to 30-day ban.
+- TCHAT1 out-of-context trade chat -> 10–20 min mute.
+- TCHAT2 offering nonexistent/unowned goods -> 10 min mute.
+
+Serious:
+- ABUSE1 shooting through wall -> 1-day ban.
+- ABUSE1 leaving RP scene -> 1-day ban.
+- ABUSE1 exploiting glitches -> 3–30 day ban.
+- ABUSE2 AFK inactivity 5 min -> 3-day ban.
+- ABUSE4 shooting before event starts -> 1-day ban.
+- ABUSE1 Step1 green shield glitch -> 3-day ban.
+- ABUSE1 Step2 green shield glitch -> 7-day ban.
+- ABUSE1 Step3 green shield glitch -> 15-day ban.
+
+Factions:
+- RP13 arrest players then release cuff (police) -> faction removal + 30 min jail to 3-day ban.
+- RP13 being at gang houses for roleplay reason -> faction removal + 30 min jail to 3-day ban.
+- RP13 using weapons/attacking players without RP reason -> faction removal + 30 min jail to 3-day ban.
+- RP13 using electric taser inside city (army) -> faction removal + 30 min jail to 3-day ban.
+- RP13 killing citizens without warnings outside event time (army) -> faction removal + 30 min jail to 3-day ban.
+- RP13 arrest/jail faction member -> faction removal + 30 min jail to 3-day ban.
+- ABUSE1 placing “مناظرة” on dead player -> 1-day ban.
+- ABUSE1 cuffing dead player (police) -> 1-day ban.
+- RP13-ABUSE1 taser to get player out of jail -> 4-day ban.
+- RP16 shooting medic when no revival -> 90 min jail.
+- RP16 shooting medic during revival -> 12-hour ban.
+- RP4/6 entering military base outside event time -> 45 min jail.
+
+Special Hossam AI application rule:
+- Any killing inside the Red Zone has no punishment, EXCEPT medics. If the victim is a medic and a medic-specific rule applies, use that medic rule.
+
+## IMPORTANT CONFLICTS
+- Military base entry is supplied as both 50 min and 45 min in different application cases. Do not silently choose one. If the exact case is otherwise clear, ask one question only if needed to determine which application context applies, or state the conflict briefly.
+- CLAN2.2, RP13-ABUSE1, ABUSE1 Step1/2/3 are application labels, not original source labels.
+- CHAT16 original source has no punishment; application case supplies one.
+- CHAT15 original source says 1–3 day ban; application case says 240 min mute to 3-day ban.
+- RP14 original source includes sexual harassment/explicit sexual content/racial insults; application case specifies sexual form.
+- ABUSE2 original source is AFK exploit with bugs/external programs; application case says inactivity 5 minutes, which can overlap/conflict with RP8 AFK >5 min disconnect.
